@@ -1,1 +1,4 @@
 
+*R important points
+1)Dataframes are subtype of lists
+2)Types of data:Numeric,Character,Factor,Logical
